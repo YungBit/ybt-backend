@@ -12,12 +12,12 @@ This is the backend service for Your Business Toolkit (YBT).
 
 1. Clone the repo
 2. Install dependencies: `npm install`
-3. Create `.env` file with your `DATABASE_URL`
+3. Create `.env` file with your `https://pvfgmgtybjbesvaxaiyi.supabase.co`
 4. Run the server: `npm start`
 
 ## Environment Variables
 
-- `DATABASE_URL` - PostgreSQL connection string
+- `https://pvfgmgtybjbesvaxaiyi.supabase.co` - PostgreSQL connection string
 
 ## License
 
